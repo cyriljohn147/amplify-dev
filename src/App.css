@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+
+.aws-ui-container {
+  background-color: #3c1212;
+}
+
+.aws-ui-form-field {
+  margin-bottom: 20px;
+}
+
+.aws-ui-button {
+  background-color: #3498db;
+  color: #000000;
+}
